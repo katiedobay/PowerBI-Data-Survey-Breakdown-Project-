@@ -197,8 +197,8 @@ Data-Professional-Survey-Dashboard/
 
 Kaitlin Dobay
 
-[- LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/kaitlindobay/)
+[LinkedIn](https://www.linkedin.com/in/kaitlindobay/)
 
-[- GitHub: https://github.com/yourusername](https://github.com/katiedobay)
+[GitHub](https://github.com/katiedobay)
 
 ---
